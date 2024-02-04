@@ -5,6 +5,7 @@ import Navigation from './Navigation/Navigation';
 import HeadRightBlock from './HeadRightBlock/HeadRightBlock';
 import { FaHamburger } from 'react-icons/fa';
 import { FaWindowClose } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   const [menu, setMenu] = useState(false);
@@ -12,7 +13,9 @@ const Header = () => {
     <div className="container">
       <div className={classes.wrap}>
         <div className={classes.logo}>
-          <img src={logo} alt="logo" />
+          <Link to={'/'}>
+            <img src={logo} alt="logo" />
+          </Link>
         </div>
         <div className={classes.desktop}>
           <Navigation />
