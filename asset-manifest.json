@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/form-app/static/css/main.ae249477.css",
+    "main.js": "/form-app/static/js/main.b7181378.js",
+    "static/media/subheaderImg.png": "/form-app/static/media/subheaderImg.c976bf676923f8f93eec.png",
+    "static/media/logo.svg": "/form-app/static/media/logo.2b0be18e457a5de7ae981243ddb0ade6.svg",
+    "static/media/logo_subheader.svg": "/form-app/static/media/logo_subheader.acdbaa3cf2a20e99733db757ccbae45d.svg",
+    "static/media/guarantee.svg": "/form-app/static/media/guarantee.fb051fed152ec280e61e0adf0ade68ea.svg",
+    "static/media/shipping.svg": "/form-app/static/media/shipping.c324b60c65aca2c23c1180c0e0712e5c.svg",
+    "static/media/trophy 1.svg": "/form-app/static/media/trophy 1.960e43839d23763f359367fc68adfd28.svg",
+    "static/media/customer-support.svg": "/form-app/static/media/customer-support.7c5ea5a82e55e3cd410eb84feb3c4b69.svg",
+    "static/media/cart-outlined.svg": "/form-app/static/media/cart-outlined.9cb904c38c330ba845aef6e4767915dd.svg",
+    "static/media/accaunt.svg": "/form-app/static/media/accaunt.4a1fa7d1c03b54347c19d357101b7c82.svg",
+    "static/media/location.svg": "/form-app/static/media/location.f912a8df7b6344d94533c2b0fe4ca033.svg",
+    "static/media/time.svg": "/form-app/static/media/time.4ad517eef1b8b2521a0261bfbf2cca8f.svg",
+    "static/media/phone.svg": "/form-app/static/media/phone.a85d8548c62a166474b234ad5ddfbec4.svg",
+    "static/media/search.svg": "/form-app/static/media/search.c7a8934d91c055b100ef40051f8edd3a.svg",
+    "static/media/heart.svg": "/form-app/static/media/heart.dfc200016a2317d6c7f03fc2f03374a3.svg",
+    "index.html": "/form-app/index.html",
+    "static/media/arrow.svg": "/form-app/static/media/arrow.17113e7b35e3093a42b25508d0690bb3.svg",
+    "main.ae249477.css.map": "/form-app/static/css/main.ae249477.css.map",
+    "main.b7181378.js.map": "/form-app/static/js/main.b7181378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae249477.css",
+    "static/js/main.b7181378.js"
+  ]
+}
