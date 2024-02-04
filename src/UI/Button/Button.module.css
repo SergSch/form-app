@@ -1,0 +1,11 @@
+.btn {
+  border-radius: 8px;
+  padding: 10px 50px;
+  max-width: max-content;
+  margin: 0 auto;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
